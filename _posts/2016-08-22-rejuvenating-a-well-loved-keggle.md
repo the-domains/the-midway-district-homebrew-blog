@@ -1,15 +1,15 @@
 ---
+datePublished: '2016-08-22T19:10:20.804Z'
+sourcePath: _posts/2016-08-22-rejuvenating-a-well-loved-keggle.md
+author: []
+via: {}
+dateModified: '2016-08-22T19:10:20.462Z'
+title: Rejuvenating a well-loved keggle
+publisher: {}
 description: >-
   A friendly guy named Jason who is a member of my local brew club put up a
   listing for a cheap, used and well-loved (his words) keggle.
-dateModified: '2016-08-22T19:08:54.784Z'
-datePublished: '2016-08-22T19:09:45.076Z'
-title: Rejuvenating a well-loved keggle
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-22-rejuvenating-a-well-loved-keggle.md
 inFeed: true
 hasPage: false
 inNav: false
